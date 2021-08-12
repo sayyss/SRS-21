@@ -1,0 +1,12 @@
+# Dev dependencies
+ipdb
+black
+pylint
+isort
+
+numpy
+pandas
+scikit-learn
+tensorboardx
+setuptools
+tqdm
